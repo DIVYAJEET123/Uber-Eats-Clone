@@ -298,6 +298,7 @@ html{
 .map-country span{
     width: 25%;
     font-size: 1.1rem;
+    cursor: pointer;
 }
 
         /* Footer */
