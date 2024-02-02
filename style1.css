@@ -132,6 +132,7 @@ input[type="text"]{
     font-size: 1.1rem;
     font-weight: lighter;
     color: #414A4C;
+    outline: none;
 }
 .deliver-now{
     width: 12rem;
